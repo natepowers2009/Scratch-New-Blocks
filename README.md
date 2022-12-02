@@ -13,3 +13,11 @@ Copy the code then go to turbowarp.org
 Go to the add extension menu and load from URL
 
 Paste the link of to the code and click confirm
+
+
+
+Code Links:
+
+https://natepowers2009.github.io/Scratch-New-Blocks/Note-Synth.js
+
+https://natepowers2009.github.io/Scratch-New-Blocks/Pointer-Lock.js
