@@ -3,7 +3,7 @@ A list of extensions that I uploaded.
 
 
 
-NOTE: I OWN NONE OF THIS CODE. I AM SIMPLY HOSTING IT ON MY WEBSITE TO ALLOW EASY USAGE.
+NOTE: Most of this code is not mine and I do not own it. The only code (so far) that I own is Zeg tools.
 
 
 To use: Go to https://natepowers2009.github.io/Scratch-New-Blocks/(the file name of the extension you want)
