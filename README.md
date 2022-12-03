@@ -21,3 +21,5 @@ Code Links:
 https://natepowers2009.github.io/Scratch-New-Blocks/Note-Synth.js
 
 https://natepowers2009.github.io/Scratch-New-Blocks/Pointer-Lock.js
+
+(https://natepowers2009.github.io/Scratch-New-Blocks/ Zeg-Tools.js) These tools are under development by me and are currently unfinished.
